@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49ccae621c44ba04a855a86cb1a42f8a
+timeCreated: 1531577215
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clearAnimation: {instanceID: 0}
+  - cliarSound: {fileID: 8300000, guid: 9cb19eb032d304b07acec596ae2ce4a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
